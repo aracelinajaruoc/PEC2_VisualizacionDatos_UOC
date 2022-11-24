@@ -1,4 +1,4 @@
-**Visualización 1: **
+**Visualización 1:**
 
 - BeeSwarm
 - Realizada con Flourish
